@@ -1,4 +1,4 @@
-![logo](https://github.com/Sanskar1811/Sanskar1811/blob/main/New_Github.jpg)
+![logo](https://github.com/Sanskar1811/Sanskar1811/blob/main/New_Github.png)
 <h1 align="center">Hi 👋, I'm Sanskar Gawade</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
